@@ -1,4 +1,4 @@
-Sure, let's break down each component of this Kubernetes YAML manifest line by line:
+### Let's break down each component of this Kubernetes YAML manifest line by line:
 
 ```yaml
 ---
