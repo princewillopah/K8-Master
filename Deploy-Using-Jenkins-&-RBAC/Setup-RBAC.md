@@ -43,7 +43,7 @@ rules:
       - limitranges
       - namespaces
       - nodes
-	  - secrets
+      - secrets
       - pods
       - persistentvolumes
       - persistentvolumeclaims
