@@ -1,0 +1,3 @@
+# Ignore .terraform directories and provider binaries
+.terraform/
+*.exe
